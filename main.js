@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/muyp3w-26/
